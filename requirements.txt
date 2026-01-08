@@ -1,0 +1,20 @@
+# Core data science packages
+numpy
+pandas
+matplotlib
+
+# Recommended extras for data analysis and ML
+seaborn
+scipy
+scikit-learn
+nltk
+gensim
+
+# Optional interactive / visualization tools
+jupyterlab
+notebook
+plotly
+
+# Notes:
+# - Pin versions later for reproducibility, e.g. numpy==1.26.0
+# - Install with: pip install -r requirements.txt
