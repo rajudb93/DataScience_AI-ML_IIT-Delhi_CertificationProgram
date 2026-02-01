@@ -14,6 +14,7 @@ gensim
 jupyterlab
 notebook
 plotly
+imageio
 
 # Notes:
 # - Pin versions later for reproducibility, e.g. numpy==1.26.0

@@ -4,7 +4,7 @@ list1 = [2,4,6,8]
  # create numpy array using list1
 array1 = np.array(list1)
 print(array1)
- # Output - [2,4,6,8
+ # Output - [2,4,6,8]
 print("######################################################")
 array1 = np.zeros(4)
 print(array1)
