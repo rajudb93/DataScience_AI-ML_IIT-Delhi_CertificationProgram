@@ -3,10 +3,13 @@ numpy
 pandas
 matplotlib
 
+# Machine Learning & Deep Learning
+tensorflow
+scikit-learn
+
 # Recommended extras for data analysis and ML
 seaborn
 scipy
-scikit-learn
 nltk
 gensim
 
