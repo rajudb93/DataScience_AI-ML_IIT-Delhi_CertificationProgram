@@ -22,3 +22,24 @@ imageio
 # Notes:
 # - Pin versions later for reproducibility, e.g. numpy==1.26.0
 # - Install with: pip install -r requirements.txt
+
+dspy
+langchain
+langchain-classic
+langchain-community
+langchain-core
+langchain-huggingface
+langchain-mistralai
+langchain-ollama
+langchain-qdrant
+langchain-text-splitters
+qdrant-client
+streamlit
+icrawler
+markdown-it-py
+nltk
+pytube
+sentence_transformers
+pypdf
+elevenlabs
+transformers
